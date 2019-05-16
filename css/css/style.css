@@ -33,7 +33,7 @@
 	}
 
 	a {
-		color: #FFD25A;
+		color: #F4B246;
 		text-decoration: underline;
 	}
 
@@ -88,13 +88,13 @@
 	}
 
 	hr {
-		border-top: solid 1px #FFD25A;
+		border-top: solid 1px #F4B246;
 		border: 0;
 		margin-bottom: 1.5em;
 	}
 
 	blockquote {
-		border-left: solid 0.5em #FFD25A;
+		border-left: solid 0.5em #F4B246;
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
@@ -141,7 +141,7 @@
 		-ms-appearance: none;
 		appearance: none;
 		background: none;
-		border: solid 1px #FFD25A;
+		border: solid 1px #F4B246;
 		color: inherit;
 		display: block;
 		outline: 0;
@@ -154,7 +154,7 @@
 		input[type="password"]:focus,
 		input[type="email"]:focus,
 		textarea:focus {
-			border-color: #FFD25A;
+			border-color: #F4B246;
 		}
 
 	input[type="text"],
@@ -359,7 +359,7 @@
 			display: inline-block;
 			padding-right: 1em;
 			font-size: 1.4em;
-			color: #FFD25A;
+			color: #F4B246;
 		}
 
 		ul.special-icons p {
@@ -377,7 +377,7 @@
 		}
 
 			table.default tbody tr {
-				border-bottom: solid 1px #FFD25A;
+				border-bottom: solid 1px #F4B246;
 			}
 
 			table.default td {
@@ -409,8 +409,8 @@
 		background: none;
 		border-radius: none;
 		border: 2px solid;
-		border-color: #FFD25A;
-		color: #FFD25A;
+		border-color: #F4B246;
+		color: #F4B246;
 		cursor: pointer;
 		display: inline-block;
 		padding: 0.90em 1.2em;
@@ -430,7 +430,7 @@
 		input[type="reset"]:hover,
 		input[type="button"]:hover,
 		.button:hover {
-			background: #FFD25A;
+			background: #F4B246;
 			color: white;
 		}
 
@@ -447,7 +447,7 @@
 			input[type="button"].alt:hover,
 			.button.alt:hover {
 				background: white;
-				color: #FFD25A;
+				color: #F4B246;
 			}
 
 		input[type="submit"].fit,
@@ -513,7 +513,7 @@
 
 		.wrapper.style3 {
 			padding-bottom: 6em;
-			background: #FFD25A;
+			background: #F4B246;
 			text-align: center;
 			color: white;
 		}
@@ -532,7 +532,7 @@
 		}
 
 		.wrapper.style5 {
-			background: #FFD25A;
+			background: #F4B246;
 			text-align: center;
 			color: white;
 		}
@@ -678,7 +678,7 @@
 		#banner h2 {
 			display: inline-block;
 			padding: 0.50em 0.30em;
-			background: #FFD25A;
+			background: #F4B246;
 			font-size: 3em;
 			font-weight: 400;
 		}
